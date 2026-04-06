@@ -1,3 +1,7 @@
+# Linear Search is a searching algorithm that checks each element one by one 
+# until the target element is found.
+# Time Complexity: O(n)
+
 def linear_search(arr, key):
     for i in range(len(arr)):
         if arr[i] == key:
