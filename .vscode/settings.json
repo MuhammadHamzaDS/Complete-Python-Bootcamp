@@ -1,4 +1,6 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "gitlens.statusBar.alignment": "right",
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
 }
