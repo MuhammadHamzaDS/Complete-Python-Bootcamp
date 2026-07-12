@@ -25,4 +25,5 @@ for i in range(26):
 if isAnagram:
     print("Anagram")
 else:
+    
     print("Not Anagram")
