@@ -134,7 +134,6 @@ Complete-Python-Bootcamp/
 ├── OOP
 ├── File Handling
 ├── Data Structures
-├── Algorithms
 ├── Practice Problems
 ├── Mini Projects
 └── README.md
