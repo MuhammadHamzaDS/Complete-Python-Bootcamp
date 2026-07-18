@@ -1,3 +1,2 @@
-Supervised Learning
-Unsupervised learning
-Ensemble learning
+this done by w+ mode
+ok that's fine
